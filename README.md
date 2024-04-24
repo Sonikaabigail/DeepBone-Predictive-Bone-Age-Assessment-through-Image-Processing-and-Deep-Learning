@@ -19,12 +19,8 @@ The dataset used in this project is sourced from Kaggle and contains hand X-ray 
 - Google Colab: Used for development and execution of the Jupyter notebooks.
 - CurlWget Extension: Utilized to download the dataset directly into Colab notebooks for seamless integration.
 
-## Team
-- John Doe: Data Scientist
-- Jane Smith: Machine Learning Engineer
-- Michael Johnson: Image Processing Specialist
+## Team Details
+- Sonika Abigail Madasu (Z23703485)
+- Koushik Reddy Obulreddy (Z23693414)
+- Sri Ananya Reddy Voggu (Z23705141)
 
-## Acknowledgements
-We acknowledge the RSNA Bone Age Dataset provided by Kaggle for enabling research in bone age assessment.
-
-For any inquiries or collaborations, please contact [email@example.com](mailto:email@example.com).
